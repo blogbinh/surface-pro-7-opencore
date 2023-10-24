@@ -2,13 +2,12 @@
 ---
 OpenCore configuration for support macOS on Surface Pro 7
 
-> :warning: **Limited support**: I switched from Surface Pro 7 to Surface Pro X so I cannot test anymore. Feel free to send me PR so i can update the repo and the releases
 
 ### Surface Specs
 - Intel® Core™ i5-1035G4 Quad-Core
 - 8 GB LPDDR4x RAM
 - Intel® Iris™ Plus
-- SSD 256 GB
+- SSD **128 GB** (!??)
 
 
 ### Status
@@ -25,7 +24,7 @@ OpenCore configuration for support macOS on Surface Pro 7
 
 
 ### Install Notes
-- For a better Wifi experience, use **itlwm** instead of **AirportItlwm** with [HeliPort](https://github.com/OpenIntelWireless/HeliPort) (Simple enable/disable them in `config.plist`)
+- For a better Wifi experience, use **itlwm** instead of **AirportItlwm** with [HeliPort](https://github.com/OpenIntelWireless/HeliPort) (as now there's a bug that prevent iServices work on Sonoma) (Simple enable/disable them in `config.plist`)
 - For better trackpad support go to `System Preferences -> Trackpad` and disable `Force click and haptic feedback`
 
 ### Secure Boot
