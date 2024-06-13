@@ -39,5 +39,6 @@ Cấu hình OpenCore hỗ trợ macOS cho Surface Pro 7
 
 ### Secure Boot
 If you want to boot without the anoing red bar with the lock icon you can try [this workaround](https://github.com/badstorm/surface-pro-7-opencore/blob/master/SecureBoot.With.Grub.md). *Thanks to @Xiashangning* 
+
 Nếu bạn muốn boot mà không có cái ổ khoá với cái thanh đỏ (khó chịu) thì có thể thử [cách này](https://github.com/badstorm/surface-pro-7-opencore/blob/master/SecureBoot.With.Grub.md). *Xin cảm ơn @Xiashangning* 
 
