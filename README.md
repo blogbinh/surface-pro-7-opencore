@@ -1,6 +1,7 @@
 # Surface Pro 7 - macOS - OpenCore
 ---
 OpenCore configuration for support macOS on Surface Pro 7
+
 Cấu hình OpenCore hỗ trợ macOS cho Surface Pro 7
 
 
@@ -12,6 +13,7 @@ Cấu hình OpenCore hỗ trợ macOS cho Surface Pro 7
 
 
 ### Status
+### Tình trạng
 |  Status             |         Feature                 |            Note                      |
 |---------------------|---------------------------------|--------------------------------------|
 |  :white_check_mark: |  Graphic Acceleration          |  QE/CI works |
@@ -21,7 +23,7 @@ Cấu hình OpenCore hỗ trợ macOS cho Surface Pro 7
 |  :white_check_mark: |  Battery Status          |  With [BigSurface](https://github.com/Xiashangning/BigSurface)                 | 
 |  :white_check_mark: |  Touch & Stylus          |  With [BigSurface](https://github.com/Xiashangning/BigSurface). You need to manualy insall [IPTSDaemon](https://github.com/Xiashangning/IPTSDaemon)                | 
 |                     |                                |                   |
-|  :heavy_exclamation_mark: |  Camera Front and Rear        |  **i heard that even by now there's no sign of camera working on linux, maybe already working on ubuntu, if's that correct please take the pr for me**           | 
+|  :heavy_exclamation_mark: |  Camera Front and Rear        |  **Lack of driver**           | 
 
 
 ### Install Notes
