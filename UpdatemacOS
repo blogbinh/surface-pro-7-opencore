@@ -1,0 +1,7 @@
+1. Ignore about 64GB version. You should not think about install macOS with this small drive.
+-
+2. For those have 128GB like me:
+Split to at least about ~64GB. It will be fine. For update to next major OS, need to create the USB installer. Feel free to delete recovery partition of Windows (**USELESS**).
+-
+3. 256GB and more:
+At least more than 90GB for macOS partition.
